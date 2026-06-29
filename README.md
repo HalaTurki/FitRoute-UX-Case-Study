@@ -74,7 +74,7 @@ Prototype
 
 Figma Prototype
 
-(Add your Figma link here)
+https://www.figma.com/proto/quZnY8ajXZfizMJ6aFPYjl/Untitled
 
 ⸻
 
