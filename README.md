@@ -85,3 +85,28 @@ Academic Team Project
 Princess Nourah bint Abdulrahman University
 
 Department of Information Systems
+
+
+---
+
+## 📸 Screenshots
+
+| Welcome | Sign Up |
+|----------|---------|
+| ![](images/welcome-screen.png) | ![](images/sign-up-screen.png) |
+
+| Dashboard | Classes |
+|-----------|----------|
+| ![](images/dashboard-screen.png) | ![](images/classes-screen.png) |
+
+| Membership | Payment |
+|------------|---------|
+| ![](images/membership-screen.png) | ![](images/payment-screen.png) |
+
+| QR Code | Profile |
+|---------|---------|
+| ![](images/qr-code-screen.png) | ![](images/edit-profile-screen.png) |
+
+| Settings | Language |
+|----------|----------|
+| ![](images/settings-screen.png) | ![](images/language-screen.png) |
