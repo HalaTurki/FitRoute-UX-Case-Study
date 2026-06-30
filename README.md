@@ -4,8 +4,7 @@ A high-fidelity mobile application prototype designed to simplify gym membership
 
 ⸻
 
-Overview
-
+## Overview
 FitRoute provides an intuitive mobile experience that enables users to:
 
 * Create an account
@@ -18,7 +17,7 @@ FitRoute provides an intuitive mobile experience that enables users to:
 
 ⸻
 
-My Contribution
+## My Contribution
 
 This was a university team project.
 
