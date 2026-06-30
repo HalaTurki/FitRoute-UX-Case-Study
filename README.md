@@ -1,5 +1,7 @@
 FitRoute – UX/UI Case Study
 
+![FitRoute Preview](images/dashboard-screen.png.PNG)
+
 A high-fidelity mobile application prototype designed to simplify gym memberships, fitness class booking, and activity tracking. This project was created as part of a university team project using Figma.
 
 ⸻
@@ -7,13 +9,13 @@ A high-fidelity mobile application prototype designed to simplify gym membership
 ## Overview
 FitRoute provides an intuitive mobile experience that enables users to:
 
-* Create an account
-* Browse available fitness classes
-* Book workout sessions
-* Purchase memberships
-* Scan a QR code for gym entry
-* Track personal activity
-* Manage profile settings
+- Create an account
+- Browse available fitness classes
+- Book workout sessions
+-  Purchase memberships
+-  Scan a QR code for gym entry
+-  Track personal activit
+-  Manage profile settings
 
 ⸻
 
@@ -30,7 +32,7 @@ My contributions included:
 
 ⸻
 
-Features
+## Features
 
 Feature	Description
 User Registration	Create a new account
@@ -44,7 +46,7 @@ Settings	Language and account management
 
 ⸻
 
-Tools
+## Tools
 
 Category	Technology
 Design	Figma
@@ -54,7 +56,7 @@ UI	Mobile Interface Design
 
 ⸻
 
-Screens
+## Screens
 
 * Splash Screen
 * Sign Up
@@ -69,7 +71,7 @@ Screens
 
 ⸻
 
-Prototype
+## Prototype
 
 Figma Prototype
 
@@ -77,7 +79,7 @@ https://www.figma.com/proto/quZnY8ajXZfizMJ6aFPYjl/Untitled
 
 ⸻
 
-Project Type
+## Project Type
 
 Academic Team Project
 
