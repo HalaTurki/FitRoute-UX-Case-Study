@@ -97,16 +97,16 @@ Department of Information Systems
 
 | Dashboard | Classes |
 |-----------|----------|
-| ![](images/dashboard-screen.png) | ![](images/classes-screen.png) |k
+| ![](images/dashboard-screen.png.PNG) | ![](images/classes-screen.png.PNG) |k
 
 | Membership | Payment |
 |------------|---------|
-| ![](images/membership-screen.png) | ![](images/payment-screen.png) |
+| ![](images/membership-screen.png.PNG) | ![](images/payment-screen.png.PNG) |
 
 | QR Code | Profile |
 |---------|---------|
-| ![](images/qr-code-screen.png) | ![](images/edit-profile-screen.png) |
+| ![](images/qr-code-screen.png.PNG) | ![](images/edit-profile-screen.png.PNG) |
 
 | Settings | Language |
 |----------|----------|
-| ![](images/settings-screen.png) | ![](images/language-screen.png) |
+| ![](images/settings-screen.png.PNG) | ![](images/language-screen.png.PNG) |
