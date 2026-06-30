@@ -93,11 +93,11 @@ Department of Information Systems
 
 | Welcome | Sign Up |
 |----------|---------|
-| ![](images/welcome-screen.png) | ![](images/sign-up-screen.png) |
+| ![](images/welcome-screen.png.PNG) | ![](images/sign-up-screen.png.PNG) |
 
 | Dashboard | Classes |
 |-----------|----------|
-| ![](images/dashboard-screen.png) | ![](images/classes-screen.png) |
+| ![](images/dashboard-screen.png) | ![](images/classes-screen.png) |k
 
 | Membership | Payment |
 |------------|---------|
